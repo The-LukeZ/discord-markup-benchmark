@@ -6,8 +6,8 @@
     "benchmark": "tsx benchmark/index.ts"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "The-LukeZ",
+  "license": "MIT",
   "packageManager": "pnpm@10.14.0",
   "type": "module",
   "devDependencies": {
