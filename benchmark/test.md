@@ -17,10 +17,13 @@ Our framework is built on three pillars: **speed**, **security**, and **scalabil
 ### Getting Started: Installation
 
 1.  Ensure you have `Node.js` version 18.x or higher installed.
+
 2.  Clone the repository from our GitHub page.
-    ```bash
-    git clone [https://github.com/example/project-nova.git](https://github.com/example/project-nova.git)
-    ```
+
+```bash
+git clone [https://github.com/example/project-nova.git](https://github.com/example/project-nova.git)
+```
+
 3.  Navigate into the project directory and install dependencies.
     - Run the command: `npm install`
     - This will fetch all required packages.
@@ -57,6 +60,6 @@ export class GreetingComponent {
 }
 ```
 
->>> The rest of the message should be a blockquote.
+> > > The rest of the message should be a blockquote.
 
 _Italics are also possible down here._
