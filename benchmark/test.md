@@ -60,6 +60,6 @@ export class GreetingComponent {
 }
 ```
 
-> > > The rest of the message should be a blockquote.
+>>> The rest of the message should be a blockquote.
 
 _Italics are also possible down here._
