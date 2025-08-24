@@ -28,3 +28,4 @@ Thanks to the authors of the libraries used in this benchmark:
 
 - [tinybench](https://github.com/tinylibs/tinybench)
 - [marked](https://github.com/markedjs/marked)
+- [tsx](https://tsx.is/)
